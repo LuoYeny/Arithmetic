@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36bccf60-5f65-42db-b2d7-544d12959e21" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jzproj" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XruNrs9fM0jwftvtD0iVTvG4wF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/download/WeChat Files/WeChat Files/L934398274/FileStorage/File/2020-05/oa_demo1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="zuochenyun.bitOperation" />
+      <recent name="Interview.huawei" />
+      <recent name="zuochenyun.list.reverseKNode12" />
+      <recent name="com.jz.ch2.multiThread" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PrintHalfMajor1">
+    <configuration name="GetValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuochenyun.string.GetValue" />
+      <module name="jzproj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zuochenyun.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuochenyun.string.MinLength" />
+      <module name="jzproj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zuochenyun.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintHalfMajor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuochenyun.bitOperation.PrintHalfMajor1" />
+      <module name="jzproj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zuochenyun.bitOperation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuochenyun.bitOperation.Rotate" />
+      <module name="jzproj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zuochenyun.bitOperation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpiralOrderPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuochenyun.bitOperation.SpiralOrderPrint" />
+      <module name="jzproj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zuochenyun.bitOperation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PrintHalfMajor1" />
+        <item itemvalue="Application.Rotate" />
+        <item itemvalue="Application.SpiralOrderPrint" />
+        <item itemvalue="Application.MinLength" />
+        <item itemvalue="Application.GetValue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36bccf60-5f65-42db-b2d7-544d12959e21" name="Default Changelist" comment="" />
+      <created>1581816498005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581816498005</updated>
+      <workItem from="1581816502716" duration="11857000" />
+      <workItem from="1581901301444" duration="10663000" />
+      <workItem from="1581989265320" duration="7883000" />
+      <workItem from="1582075693767" duration="7611000" />
+      <workItem from="1582100531246" duration="2914000" />
+      <workItem from="1582195542242" duration="2442000" />
+      <workItem from="1582280478994" duration="1912000" />
+      <workItem from="1582335672745" duration="2562000" />
+      <workItem from="1582422431542" duration="5791000" />
+      <workItem from="1582789478777" duration="938000" />
+      <workItem from="1583138431122" duration="128000" />
+      <workItem from="1583312326499" duration="14000" />
+      <workItem from="1584149698202" duration="1232000" />
+      <workItem from="1584255243072" duration="2676000" />
+      <workItem from="1584324116156" duration="4201000" />
+      <workItem from="1584411694151" duration="15115000" />
+      <workItem from="1584582770900" duration="6467000" />
+      <workItem from="1584669183664" duration="13851000" />
+      <workItem from="1584841973230" duration="6016000" />
+      <workItem from="1584955345633" duration="2972000" />
+      <workItem from="1585025268608" duration="2838000" />
+      <workItem from="1585101532754" duration="14800000" />
+      <workItem from="1585444738173" duration="18377000" />
+      <workItem from="1585964905288" duration="3335000" />
+      <workItem from="1586050113523" duration="5504000" />
+      <workItem from="1586136639539" duration="3301000" />
+      <workItem from="1586219647502" duration="10891000" />
+      <workItem from="1586396427886" duration="6092000" />
+      <workItem from="1586423933295" duration="7000" />
+      <workItem from="1586482737198" duration="6055000" />
+      <workItem from="1586574308507" duration="7452000" />
+      <workItem from="1586738837922" duration="8440000" />
+      <workItem from="1586825330277" duration="7186000" />
+      <workItem from="1586912606356" duration="8022000" />
+      <workItem from="1586998197525" duration="4416000" />
+      <workItem from="1587085252141" duration="10135000" />
+      <workItem from="1587257796634" duration="858000" />
+      <workItem from="1587259043078" duration="18066000" />
+      <workItem from="1587433058366" duration="3236000" />
+      <workItem from="1587538286977" duration="9073000" />
+      <workItem from="1587638523780" duration="8111000" />
+      <workItem from="1587713018514" duration="6376000" />
+      <workItem from="1587797225230" duration="10332000" />
+      <workItem from="1587883909992" duration="23684000" />
+      <workItem from="1588057530726" duration="6634000" />
+      <workItem from="1588143287677" duration="75000" />
+      <workItem from="1588143375979" duration="7668000" />
+      <workItem from="1588317191830" duration="5922000" />
+      <workItem from="1588488894052" duration="5833000" />
+      <workItem from="1588762868358" duration="12169000" />
+      <workItem from="1588904720874" duration="5803000" />
+      <workItem from="1589007930719" duration="4611000" />
+      <workItem from="1589095087285" duration="5532000" />
+      <workItem from="1589180465057" duration="14205000" />
+      <workItem from="1589353441191" duration="5354000" />
+      <workItem from="1589527687954" duration="345000" />
+      <workItem from="1589528046862" duration="3984000" />
+      <workItem from="1589616704901" duration="11779000" />
+      <workItem from="1589788964120" duration="3887000" />
+      <workItem from="1589870211491" duration="8424000" />
+      <workItem from="1589957035461" duration="5118000" />
+      <workItem from="1590046019982" duration="1083000" />
+      <workItem from="1590388868355" duration="4800000" />
+      <workItem from="1590475914967" duration="5233000" />
+      <workItem from="1590565021198" duration="7533000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="213" y="41" key="#Project_Structure" timestamp="1588921738969">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="213" y="41" key="#Project_Structure/0.0.1440.920@0.0.1440.920" timestamp="1588921738969" />
+    <state x="482" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1590046143282">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="482" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1440.920@0.0.1440.920" timestamp="1590046143282" />
+    <state x="451" y="163" key="FileChooserDialogImpl" timestamp="1589888769283">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="451" y="163" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1589888769283" />
+    <state width="1387" height="152" key="GridCell.Tab.0.bottom" timestamp="1590675757081">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1387" height="152" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1590675757081" />
+    <state width="1387" height="152" key="GridCell.Tab.0.center" timestamp="1590675757081">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1387" height="152" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1590675757081" />
+    <state width="1387" height="152" key="GridCell.Tab.0.left" timestamp="1590675757081">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1387" height="152" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1590675757081" />
+    <state width="1387" height="152" key="GridCell.Tab.0.right" timestamp="1590675757081">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1387" height="152" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1590675757081" />
+    <state width="1387" height="286" key="GridCell.Tab.1.bottom" timestamp="1589963710601">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1387" height="286" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1589963710601" />
+    <state width="1387" height="286" key="GridCell.Tab.1.center" timestamp="1589963710601">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1387" height="286" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1589963710601" />
+    <state width="1387" height="286" key="GridCell.Tab.1.left" timestamp="1589963710601">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1387" height="286" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1589963710601" />
+    <state width="1387" height="286" key="GridCell.Tab.1.right" timestamp="1589963710601">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1387" height="286" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1589963710601" />
+    <state x="109" y="19" key="SettingsEditor" timestamp="1588907389338">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="109" y="19" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1588907389338" />
+    <state x="321" y="82" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586050406966">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="321" y="82" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.920@0.0.1440.920" timestamp="1586050406966" />
+    <state x="345" y="13" width="750" height="894" key="find.popup" timestamp="1589789844058">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="345" y="13" width="750" height="894" key="find.popup/0.0.1440.920@0.0.1440.920" timestamp="1589789844058" />
+    <state x="0" y="101" key="new project wizard" timestamp="1584170099575">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="0" y="101" key="new project wizard/0.0.1440.920@0.0.1440.920" timestamp="1584170099575" />
+    <state x="293" y="207" key="run.anything.popup" timestamp="1584586062750">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="293" y="207" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1584586062750" />
+    <state x="299" y="0" width="840" height="918" key="search.everywhere.popup" timestamp="1589704288310">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="299" y="0" width="840" height="918" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1589704288310" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jz/ch2/t7/StackAndQueue.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jz/ch3/t12/PrintToMaxofDigitsRecersively.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zuochenyun/string/GetValue.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zuochenyun/string/GetValue.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jz/ch3/t12/PrintToMaxofDigits.java</url>
+          <line>56</line>
+          <properties class="com.jz.ch3.t12.PrintToMaxofDigits" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jz/ch3/t12/PrintToMaxofDigitsRecersively.java</url>
+          <line>57</line>
+          <properties class="com.jz.ch3.t12.PrintToMaxofDigitsRecersively" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="deque" language="JAVA" />
+        <watch expression="deque.getLast()" language="JAVA" />
+        <watch expression="deque.getLast()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/jzproj$MoreThanHalfNum.ic" NAME="MoreThanHalfNum Coverage Results" MODIFIED="1587092541002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.jz.ch5.t29.*</FILTER>
+    </SUITE>
+  </component>
+</project>
