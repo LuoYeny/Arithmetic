@@ -25,7 +25,7 @@ public class GenerateParenthesis {
             System.out.println(list);
             return;
         }
-        if(left>right)
+        if(left>right)  //剪枝，如果左括号剩余的大于右括号
             return;
         if(left>0){
 

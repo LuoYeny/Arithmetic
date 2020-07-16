@@ -19,7 +19,7 @@ public class Combine {
         }
         List<List<Integer>> lists= new LinkedList<>();
         List<Integer> list = new LinkedList<>();
-        solution (nums,n,k,0,lists,list);
+        solution2 (nums,n,k,0,lists,list);
         System.out.println(lists);
 
         return lists;

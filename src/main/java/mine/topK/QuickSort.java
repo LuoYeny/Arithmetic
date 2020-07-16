@@ -8,25 +8,27 @@ package mine.topK;
 //时间复杂度是O(n)。
 public class QuickSort {
     public void topK(int[] arr,int k){
+
         sort(arr,k,0,arr.length-1);
+        for (int i = 0; i <arr.length ; i++) {
+            System.out.print (arr[i]+"  ");
+
+        }
     }
     public void sort(int[] arr,int k,int left,int right){
         if(left>right) return;
 
         int index=partion(arr,left,right);
         while (k!=index){
-            System.out.print ("----------");
+
             if(k>index)
               index=  partion(arr,index+1,right);
             else index=partion(arr,left,index-1);
         }
 
 
-        System.out.print ("----------");
-        for (int i = arr.length-k; i <arr.length ; i++) {
-            System.out.print (arr[i]+"  ");
 
-        }
+
 
     }
 

@@ -15,4 +15,25 @@ public class Fibonacci {
 
 
     }
+
+
+    public static int feibounaqi(int i) {
+        if (i==1) {
+            return 1;
+        }
+        if (i==2) {
+            return 1;
+        }
+        int f1=1; //第一数
+        int f2=1; //第二数
+        int c=0;  //返回结果数
+
+        //这个循环只要i>=3就会执行
+        for (int j =3;j<=i; j++) {
+            c=f1+f2;
+            f1=f2;
+            f2=c;
+        }
+        return c;
+    }
 }

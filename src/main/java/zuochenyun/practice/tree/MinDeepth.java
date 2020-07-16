@@ -24,12 +24,12 @@ public class MinDeepth {
 
         int min=Integer.MAX_VALUE;
         if(head.left!=null){
-            min=Math.min(getMinDeep(head.left,level+1),level);
+            min=Math.min(getMinDeep(head.left,level+1),min);
         }
 
 
         if(head.right!=null){
-            min=Math.min(getMinDeep(head.right,level+1),level);
+            min=Math.min(getMinDeep(head.right,level+1),min);
         }
 
         return min;

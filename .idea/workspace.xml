@@ -1,24 +1,570 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36bccf60-5f65-42db-b2d7-544d12959e21" name="Default Changelist" comment="" />
+    <list default="true" id="36bccf60-5f65-42db-b2d7-544d12959e21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interview/simple/FirstMissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interview/zy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interview/zy/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enterprise/zj/KReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enterprise/zj/MaxUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enterprise/zj/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enterprise/zj/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/geekBang/dynamicProgramming/MatrixAndPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/geekBang/dynamicProgramming/Package.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/geekBang/dynamicProgramming/Package01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/geekBang/recall/Permutation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/Lock/InterruptLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/Lock/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/Lock/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/MyPCStack/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/MyPCStack/MyThreadPop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/MyPCStack/MyThreadPush.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/MyPCStack/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/PCStack/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/PCStack/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/PCStack/ThreadPop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/PCStack/ThreadPush.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/crossPrint/DBTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/crossPrint/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/crossPrint/MyThread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/crossPrint/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/deadLock/DeadLock1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/join/joinAndLock/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/join/joinAndLock/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/join/joinAndLock/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/join/joinAndLock/ThreadC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/join/joinSometime/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/join/joinSometime/tTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/pc/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/pc/P.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/pc/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/pc/ThreadC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/pc/ThreadP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/pc/ValueObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/pc/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/CAndP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/NotifyWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/OneForOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/reentreLock/Resourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/reentreLock/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/reentreLock/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/stream/bit/ReadDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/stream/bit/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/stream/bit/ThreadRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/stream/bit/ThreadWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/stream/bit/WriteData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/test/CallableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/threadLocal/Inheritable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/threadLocal/Isolation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/tool/CountDownLatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/tool/CyclicBarrierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/list5/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/list5/MyThread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/list5/MyThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/list5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/simpleDemo/MyThread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/simpleDemo/MyThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/simpleDemo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/wn3_1_14/Servce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/wn3_1_14/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/wn3_1_14/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/wn3_1_14/Thread1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/wn3_1_14/Thread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mine/topK/Select.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mine/topK/practice/QuickSort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mine/topK/practice/QuickSort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/FragAndStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/FragAndStepUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/GenerateLIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/GenerateLIS1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/GetPalindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/Hanuota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/LeftUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/LongestSubList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/LongestSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/MaxBracketsLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/MinCoins1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/MinCoins2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/MinCoins3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/MinCoins4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/MinPathSum1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/MinPathSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/Sort123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/GetLIL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/GetMaxSubListLen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/GetMaxSubListLen2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/GetMinLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/MaxProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/MaxSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/MaxSumForMartix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/MinPathValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/Modify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/PrintHalfOfMajor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/PrintMatrixByZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/PrintUniquePair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/PrintUniqueTried.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/RotateMartix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/SpiralOrderPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/TopK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/FormulaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/GetCharAt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/GetCountString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/GetIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/IsDeformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/IsUnique1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/IsUnique2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/Isvalid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/MInLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/MaxBracketsLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/MaxUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/MinDistence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/NumSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/RemoveKZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/Replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/Replace1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/RotateWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/CBTNodeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/Contain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/DoubleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/GenerateTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/GetNextNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/GetTwoErroNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/IsBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/IsBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/IsCBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/IsPosArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/IsSubtree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/LowestAncester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/MaxDistence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/PosArrayToBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/PosInToTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/PreInToPos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/PreInToTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/SerializeTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/string/GetPalindrom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jzproj.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Interview/huawei/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interview/huawei/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/geekBang/recall/Combine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekBang/recall/Combine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/geekBang/recall/GenerateParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekBang/recall/GenerateParenthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/geekBang/recall/MatrixAndPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekBang/recall/MatrixAndPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/geekBang/recall/Permutation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekBang/recall/Permutation1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/geekBang/recall/SubSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekBang/recall/SubSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mine/recursion/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mine/recursion/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mine/topK/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mine/topK/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/MinDeepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/MinDeepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zuochenyun/string/IsRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/string/IsRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Interview/huawei/List$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Interview/huawei/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Interview/huawei/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/huawei/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Interview/huawei/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/huawei/Main1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Interview/kuaishou/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/kuaishou/Main1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Interview/meituan/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/meituan/Main1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Interview/meituan/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/meituan/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Interview/practice/AA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/practice/AA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Interview/practice/RotationMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/practice/RotationMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Interview/tenxun/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/tenxun/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Interview/tenxun/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/tenxun/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Interview/tenxun/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/tenxun/Main3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/jzproj.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/jzproj.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/ConstructBinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/ConstructBinaryTree$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/ConstructBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/ConstructBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/Convert$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/Convert$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/Convert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/Convert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/FindPath$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/FindPath$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/FindPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/FindPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/MirrorRecursively$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/MirrorRecursively$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/MirrorRecursively.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/MirrorRecursively.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/SubTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/SubTree$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/SubTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/SubTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/VerifySquenceOfBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/VerifySquenceOfBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t10/Binary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t10/Binary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/innerClass/Singleton3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/innerClass/Singleton3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/innerClass/Singleton3$Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/innerClass/Singleton3$Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/innerClass/Singleton3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/innerClass/Singleton3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/multiThread/Singleton2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/multiThread/Singleton2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/multiThread/Singleton2Thread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/multiThread/Singleton2Thread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/multiThread/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/multiThread/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/singleThread/Singleton0.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/singleThread/Singleton0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/singleThread/Singleton0Thread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/singleThread/Singleton0Thread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/singleThread/Singleton1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/singleThread/Singleton1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/singleThread/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/singleThread/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t3/TwoDimensionalOrderedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t3/TwoDimensionalOrderedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t4/Replace.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t4/Replace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t5/LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t5/LinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t5/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t5/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t5/ReverseOutput$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t5/ReverseOutput$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t5/ReverseOutput.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t5/ReverseOutput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t7/StackAndQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t7/StackAndQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t8/RotateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t8/RotateArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t9/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t9/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t11/Power.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t11/Power.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t12/AddTowDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t12/AddTowDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t12/PrintToMaxofDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t12/PrintToMaxofDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t12/PrintToMaxofDigitsRecersively.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t12/PrintToMaxofDigitsRecersively.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t13/DeleteNode$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t13/DeleteNode$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t13/DeleteNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t13/DeleteNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t14/RecorderOddEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t14/RecorderOddEven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t15/FindKthToTail$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t15/FindKthToTail$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t15/FindKthToTail.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t15/FindKthToTail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t16/ReverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t16/ReverseList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t17/MergeList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t17/MergeList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t20/PrintMatrixClockwisely.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t20/PrintMatrixClockwisely.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t21/StackWithMIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t21/StackWithMIn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t22/InPopOder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t22/InPopOder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t23/PrintFromTopToBottom$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t23/PrintFromTopToBottom$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t23/PrintFromTopToBottom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t23/PrintFromTopToBottom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t26/Clone$RandomListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t26/Clone$RandomListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t26/Clone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t26/Clone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t28/Interview28About1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t28/Interview28About1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t28/Permutation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t28/Permutation$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t28/Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t28/Permutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch5/t29/MoreThanHalfNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch5/t29/MoreThanHalfNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch5/t30/GetLeastNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch5/t30/GetLeastNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch5/t31/FindGreatestSumOfSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch5/t31/FindGreatestSumOfSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/recursion/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/recursion/FrogAndStep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/recursion/Hanota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/recursion/list/InversionList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/recursion/list/InversionList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/BSTTopoSize1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/BSTTopoSize1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/BiggestSubBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/BiggestSubBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/Contains.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/Contains.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GenerateTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GenerateTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetMaxLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetMaxLength.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetNextNode$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetNextNode$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetNextNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetNextNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetPostArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetPostArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetTowErrNodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetTowErrNodes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/IsBalance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/IsBalance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/IsCBT.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/IsCBT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/IsPostArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/IsPostArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/LowestAncestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/LowestAncestor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/LowestAncestorByHashmap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/LowestAncestorByHashmap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/MaxDistence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/MaxDistence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/NodeNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/NodeNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/PostArrayToBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/PostArrayToBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/PreInToTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/PreInToTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/PrintByLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/PrintByLevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/PrintByZigZag.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/PrintByZigZag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/GetMaxLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/GetMaxLength.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/GetMinChangeLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/GetMinChangeLength.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/MaxLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/MaxLength.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/PrintHalfMajor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/PrintHalfMajor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/PrintHalfMajor1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/PrintHalfMajor1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/Rotate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/Rotate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/SpiralOrderPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/SpiralOrderPrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/AddList10$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/AddList10$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/AddList10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/AddList10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/JosehusKill6$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/JosehusKill6$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/JosehusKill6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/JosehusKill6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/ListPartitionl8$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/ListPartitionl8$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/ListPartitionl8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/ListPartitionl8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReverseList4$DoubleNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReverseList4$DoubleNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReverseList4$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReverseList4$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReverseList4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReverseList4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReversePart5$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReversePart5$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReversePart5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReversePart5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/listIntersect11/BothLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/listIntersect11/BothLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/listIntersect11/GetLoopNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/listIntersect11/GetLoopNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/listIntersect11/NoLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/listIntersect11/NoLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/listIntersect11/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/listIntersect11/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/reverseKNode12/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/reverseKNode12/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/reverseKNode12/ReverseKNode1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/reverseKNode12/ReverseKNode1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/reverseKNode12/ReverseKNode2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/reverseKNode12/ReverseKNode2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/stack/GetMaxWindow7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/stack/GetMaxWindow7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/stack/Hanuota6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/stack/Hanuota6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/stack/Reverse3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/stack/Reverse3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/stack/SortStackByStack5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/stack/SortStackByStack5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/GetCharAt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/GetCharAt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/GetCountString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/GetCountString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/GetIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/GetIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/GetValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/GetValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/IsRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/IsRotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/LowestString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/LowestString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/MinDistene.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/MinDistene.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/MinLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/MinLength.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/Modify.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/Modify.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/NumSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/NumSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/RemoveKZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/RemoveKZeros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/RototeWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/RototeWord.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/jzproj$test.ic" NAME="test Coverage Results" MODIFIED="1594349783641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>miltiThread.reentreLock.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="jzproj" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/list5/MyList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/NotifyWait.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-481">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/OneForOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="27" column="26" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/CAndP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-432">
+              <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/enterprise/zj/MaxUnique.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <folding>
+                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/enterprise/zj/KReverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/enterprise/zj/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/enterprise/zj/Reverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/Callable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tryAcquire</find>
+      <find>prev</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/GetMinLength.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/PrintHalfOfMajor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/MaxBracketsLength.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/LongestSubString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/miltiThread/reentreLock/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/miltiThread/reentreLock/Resourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/miltiThread/reentreLock/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/GetLIL.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/GetLIL.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/PrintUniquePair.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/PrintUniqueTried.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/GetPalindrom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/miltiThread/join/joinAndLock/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/miltiThread/join/joinAndLock/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/miltiThread/join/joinAndLock/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/miltiThread/threadLocal/Isolation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/miltiThread/threadLocal/Inheritable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/PrintMatrixByZ.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/GetMaxSubListLen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/GetMaxSubListLen2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/Sort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mine/recursion/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/Test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/NotifyWait.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/Modify.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/MaxProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/MaxSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/MaxSumForMartix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/TopK.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/MaxUnique.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/MInLength.java" />
+        <option value="$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/Test3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/OneForOne.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/GenerateLIS.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/GenerateLIS1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/LeftUnique.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/Sort123.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/MinPathValue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/miltiThread/test/Callable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/miltiThread/test/CallableTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/miltiThread/tool/CyclicBarrierTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/miltiThread/tool/CountDownLatchTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/list5/MyList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/CAndP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/enterprise/zj/MaxUnique.java" />
+        <option value="$PROJECT_DIR$/src/main/java/enterprise/zj/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/enterprise/zj/KReverse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/enterprise/zj/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/enterprise/zj/Reverse.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="y" value="37" />
+    <option name="width" value="1038" />
+    <option name="height" value="709" />
+  </component>
   <component name="ProjectId" id="1XruNrs9fM0jwftvtD0iVTvG4wF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jzproj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jzproj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jzproj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jzproj" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jzproj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jzproj" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jzproj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jzproj" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jzproj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jzproj" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zj" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,27 +574,44 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/download/WeChat Files/WeChat Files/L934398274/FileStorage/File/2020-05/oa_demo1" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594894845162" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="zuochenyun.bitOperation" />
-      <recent name="Interview.huawei" />
-      <recent name="zuochenyun.list.reverseKNode12" />
-      <recent name="com.jz.ch2.multiThread" />
+      <recent name="miltiThread.reentrantLock" />
+      <recent name="zuochenyun.dynamicPlanning" />
+      <recent name="zuochenyun.practice.matrix" />
+      <recent name="miltiThread.join.joinAndLock" />
+      <recent name="mine.topK.practice" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\jzproj\src\main\java\miltiThread\pc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintHalfMajor1">
-    <configuration name="GetValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuochenyun.string.GetValue" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Reverse">
+    <configuration name="CAndP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="miltiThread.reentrantLock.CAndP" />
       <module name="jzproj" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zuochenyun.string.*" />
+          <option name="PATTERN" value="miltiThread.reentrantLock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +619,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuochenyun.string.MinLength" />
+    <configuration name="KReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enterprise.zj.KReverse" />
       <module name="jzproj" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zuochenyun.string.*" />
+          <option name="PATTERN" value="enterprise.zj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +632,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintHalfMajor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuochenyun.bitOperation.PrintHalfMajor1" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enterprise.zj.Main" />
       <module name="jzproj" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zuochenyun.bitOperation.*" />
+          <option name="PATTERN" value="enterprise.zj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +645,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuochenyun.bitOperation.Rotate" />
+    <configuration name="MaxUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enterprise.zj.MaxUnique" />
       <module name="jzproj" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zuochenyun.bitOperation.*" />
+          <option name="PATTERN" value="enterprise.zj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +658,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpiralOrderPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zuochenyun.bitOperation.SpiralOrderPrint" />
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enterprise.zj.Reverse" />
       <module name="jzproj" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zuochenyun.bitOperation.*" />
+          <option name="PATTERN" value="enterprise.zj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="miltiThread.pc1.Test" />
+      <module name="jzproj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="miltiThread.pc1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +686,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintHalfMajor1" />
-        <item itemvalue="Application.Rotate" />
-        <item itemvalue="Application.SpiralOrderPrint" />
-        <item itemvalue="Application.MinLength" />
-        <item itemvalue="Application.GetValue" />
+        <item itemvalue="Application.Reverse" />
+        <item itemvalue="Application.KReverse" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MaxUnique" />
+        <item itemvalue="Application.CAndP" />
       </list>
     </recent_temporary>
   </component>
@@ -193,8 +769,56 @@
       <workItem from="1590388868355" duration="4800000" />
       <workItem from="1590475914967" duration="5233000" />
       <workItem from="1590565021198" duration="7533000" />
+      <workItem from="1592484340378" duration="1255000" />
+      <workItem from="1592548813589" duration="11991000" />
+      <workItem from="1592726066585" duration="169107000" />
+      <workItem from="1593739164949" duration="20775000" />
+      <workItem from="1593953067184" duration="10371000" />
+      <workItem from="1594086491329" duration="8374000" />
+      <workItem from="1594170894094" duration="10691000" />
+      <workItem from="1594261599030" duration="13909000" />
+      <workItem from="1594343285198" duration="54160000" />
+      <workItem from="1594868987994" duration="9645000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="310278000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.94179106" visible="true" weight="0.27345416" />
+      <window_info id="Structure" order="1" sideWeight="0.058208954" side_tool="true" visible="true" weight="0.27345416" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2733189" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28850326" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -275,22 +899,98 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/jz/ch2/t7/StackAndQueue.java</url>
           <line>32</line>
+          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/jz/ch3/t12/PrintToMaxofDigitsRecersively.java</url>
           <line>58</line>
+          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/zuochenyun/string/GetValue.java</url>
           <line>61</line>
+          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/zuochenyun/string/GetValue.java</url>
           <line>21</line>
+          <properties />
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/GetIndex.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/FormulaString.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/FormulaString.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/AbstractQueuedLongSynchronizer.java</url>
+          <line>383</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/miltiThread/reentreLock/test.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/AbstractQueuedLongSynchronizer.java</url>
+          <line>361</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>284</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>223</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
+          <line>1197</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
+          <line>584</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
+          <line>605</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/PrintUniqueTried.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/jz/ch3/t12/PrintToMaxofDigits.java</url>
@@ -312,7 +1012,6 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="deque" language="JAVA" />
         <watch expression="deque.getLast()" language="JAVA" />
         <watch expression="deque.getLast()" language="JAVA" />
       </configuration>
@@ -322,5 +1021,474 @@
     <SUITE FILE_PATH="coverage/jzproj$MoreThanHalfNum.ic" NAME="MoreThanHalfNum Coverage Results" MODIFIED="1587092541002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.jz.ch5.t29.*</FILTER>
     </SUITE>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>deque.getLast()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/IsUnique2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/Isvalid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/MaxBracketsLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/MinDistence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-131">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/NumSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/RemoveKZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/Replace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/Replace1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/RotateWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="1962" selection-start-line="1962" selection-end-line="1962" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/miltiThread/crossPrint/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/MInLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/MaxUnique.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1809">
+          <caret line="67" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="69" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/geekBang/recall/Combine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/geekBang/recall/GenerateParenthesis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/geekBang/recall/Package01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/LongestSubList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/LongestSubString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/GetLIL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/GetMaxSubListLen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/GetMaxSubListLen2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/GetMinLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/MaxSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/PrintHalfOfMajor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/PrintMatrixByZ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/MinPathSum2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/GenerateLIS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/GenerateLIS1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/LeftUnique.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/MaxSumForMartix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/Sort123.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/geekBang/recall/MatrixAndPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/MinPathValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/miltiThread/test/CallableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/miltiThread/tool/CountDownLatchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/miltiThread/tool/CyclicBarrierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/list5/MyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/NotifyWait.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-481">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/OneForOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/CAndP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enterprise/zj/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="934">
+          <caret line="43" column="44" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="44" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enterprise/zj/MaxUnique.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enterprise/zj/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enterprise/zj/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enterprise/zj/KReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jzproj</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

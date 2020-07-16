@@ -4,6 +4,7 @@ package geekBang.recall;
 
 
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -23,13 +24,13 @@ public class Permutation1 {
         solution(chars, 0, chars.length, list,new StringBuffer(),used);
 
 
-
     }
 
     private void solution(char[] chars, int start, int length, List<String> list,StringBuffer tmp,boolean[] used) {
-        if(start==length){
-            list.add(tmp.toString());
-            System.out.println(list);
+        if(start==length&&tmp.toString().compareTo("1532")<0){
+            list.add(tmp.toString() );
+          //  System.out.println(list);
+
             return;
         }
 
@@ -58,7 +59,7 @@ public class Permutation1 {
 
 
     public static void main(String[] args) {
-        new Permutation1().permutation("AAAE");
+        new Permutation1().permutation("1532");
     }
 }
 
