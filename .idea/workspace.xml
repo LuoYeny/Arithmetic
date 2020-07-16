@@ -1,312 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36bccf60-5f65-42db-b2d7-544d12959e21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interview/simple/FirstMissingPositive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interview/zy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interview/zy/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enterprise/zj/KReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enterprise/zj/MaxUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enterprise/zj/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enterprise/zj/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geekBang/dynamicProgramming/MatrixAndPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geekBang/dynamicProgramming/Package.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geekBang/dynamicProgramming/Package01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geekBang/recall/Permutation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/Lock/InterruptLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/Lock/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/Lock/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/MyPCStack/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/MyPCStack/MyThreadPop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/MyPCStack/MyThreadPush.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/MyPCStack/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/PCStack/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/PCStack/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/PCStack/ThreadPop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/PCStack/ThreadPush.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/crossPrint/DBTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/crossPrint/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/crossPrint/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/crossPrint/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/deadLock/DeadLock1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/join/joinAndLock/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/join/joinAndLock/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/join/joinAndLock/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/join/joinAndLock/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/join/joinSometime/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/join/joinSometime/tTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/pc/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/pc/P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/pc/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/pc/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/pc/ThreadP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/pc/ValueObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/pc/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/CAndP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/NotifyWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/OneForOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/reentrantLock/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/reentreLock/Resourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/reentreLock/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/reentreLock/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/stream/bit/ReadDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/stream/bit/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/stream/bit/ThreadRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/stream/bit/ThreadWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/stream/bit/WriteData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/test/CallableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/threadLocal/Inheritable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/threadLocal/Isolation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/tool/CountDownLatchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/tool/CyclicBarrierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/list5/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/list5/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/list5/MyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/list5/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/simpleDemo/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/simpleDemo/MyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/simpleDemo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/wn3_1_14/Servce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/wn3_1_14/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/wn3_1_14/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/wn3_1_14/Thread1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miltiThread/waitAndNoyify/wn3_1_14/Thread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mine/topK/Select.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mine/topK/practice/QuickSort1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mine/topK/practice/QuickSort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/FragAndStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/FragAndStepUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/GenerateLIS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/GenerateLIS1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/GetPalindrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/Hanuota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/LeftUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/LongestSubList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/LongestSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/MaxBracketsLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/MinCoins1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/MinCoins2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/MinCoins3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/MinCoins4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/MinPathSum1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/MinPathSum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/Sort123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/dynamicPlanning/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/GetLIL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/GetMaxSubListLen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/GetMaxSubListLen2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/GetMinLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/MaxProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/MaxSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/MaxSumForMartix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/MinPathValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/Modify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/PrintHalfOfMajor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/PrintMatrixByZ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/PrintUniquePair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/PrintUniqueTried.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/RotateMartix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/SpiralOrderPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/TopK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/matrix/product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/Convert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/FormulaString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/GetCharAt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/GetCountString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/GetIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/IsDeformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/IsUnique1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/IsUnique2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/Isvalid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/MInLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/MaxBracketsLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/MaxUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/MinDistence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/NumSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/RemoveKZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/Replace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/Replace1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/string/RotateWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/CBTNodeNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/Contain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/DoubleNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/GenerateTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/GetNextNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/GetTwoErroNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/IsBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/IsBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/IsCBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/IsPosArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/IsSubtree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/LowestAncester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/MaxDistence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/PosArrayToBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/PosInToTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/PreInToPos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/PreInToTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/SerializeTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/string/GetPalindrom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jzproj.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Interview/huawei/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Interview/huawei/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/geekBang/recall/Combine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekBang/recall/Combine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/geekBang/recall/GenerateParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekBang/recall/GenerateParenthesis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/geekBang/recall/MatrixAndPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekBang/recall/MatrixAndPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/geekBang/recall/Permutation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekBang/recall/Permutation1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/geekBang/recall/SubSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekBang/recall/SubSets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mine/recursion/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mine/recursion/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mine/topK/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mine/topK/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/MinDeepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/MinDeepth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/practice/tree/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zuochenyun/string/IsRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zuochenyun/string/IsRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interview/huawei/List$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interview/huawei/List.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interview/huawei/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/huawei/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interview/huawei/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/huawei/Main1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interview/kuaishou/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/kuaishou/Main1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interview/meituan/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/meituan/Main1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interview/meituan/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/meituan/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interview/practice/AA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/practice/AA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interview/practice/RotationMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/practice/RotationMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interview/tenxun/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/tenxun/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interview/tenxun/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/tenxun/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Interview/tenxun/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Interview/tenxun/Main3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/jzproj.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/jzproj.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/ConstructBinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/ConstructBinaryTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/ConstructBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/ConstructBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/Convert$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/Convert$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/Convert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/Convert.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/FindPath$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/FindPath$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/FindPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/FindPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/MirrorRecursively$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/MirrorRecursively$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/MirrorRecursively.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/MirrorRecursively.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/SubTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/SubTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/SubTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/SubTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/VerifySquenceOfBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/binaryTree/VerifySquenceOfBST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t10/Binary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t10/Binary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/innerClass/Singleton3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/innerClass/Singleton3$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/innerClass/Singleton3$Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/innerClass/Singleton3$Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/innerClass/Singleton3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/innerClass/Singleton3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/multiThread/Singleton2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/multiThread/Singleton2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/multiThread/Singleton2Thread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/multiThread/Singleton2Thread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/multiThread/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/multiThread/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/singleThread/Singleton0.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/singleThread/Singleton0.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/singleThread/Singleton0Thread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/singleThread/Singleton0Thread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/singleThread/Singleton1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/singleThread/Singleton1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/singleThread/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t2/singleThread/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t3/TwoDimensionalOrderedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t3/TwoDimensionalOrderedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t4/Replace.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t4/Replace.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t5/LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t5/LinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t5/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t5/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t5/ReverseOutput$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t5/ReverseOutput$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t5/ReverseOutput.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t5/ReverseOutput.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t7/StackAndQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t7/StackAndQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t8/RotateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t8/RotateArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch2/t9/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch2/t9/Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t11/Power.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t11/Power.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t12/AddTowDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t12/AddTowDigits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t12/PrintToMaxofDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t12/PrintToMaxofDigits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t12/PrintToMaxofDigitsRecersively.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t12/PrintToMaxofDigitsRecersively.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t13/DeleteNode$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t13/DeleteNode$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t13/DeleteNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t13/DeleteNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t14/RecorderOddEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t14/RecorderOddEven.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t15/FindKthToTail$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t15/FindKthToTail$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t15/FindKthToTail.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t15/FindKthToTail.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t16/ReverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t16/ReverseList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch3/t17/MergeList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch3/t17/MergeList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t20/PrintMatrixClockwisely.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t20/PrintMatrixClockwisely.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t21/StackWithMIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t21/StackWithMIn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t22/InPopOder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t22/InPopOder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t23/PrintFromTopToBottom$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t23/PrintFromTopToBottom$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t23/PrintFromTopToBottom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t23/PrintFromTopToBottom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t26/Clone$RandomListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t26/Clone$RandomListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t26/Clone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t26/Clone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t28/Interview28About1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t28/Interview28About1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t28/Permutation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t28/Permutation$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch4/t28/Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch4/t28/Permutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch5/t29/MoreThanHalfNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch5/t29/MoreThanHalfNum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch5/t30/GetLeastNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch5/t30/GetLeastNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jz/ch5/t31/FindGreatestSumOfSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jz/ch5/t31/FindGreatestSumOfSubArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/recursion/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/recursion/FrogAndStep.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/recursion/Hanota.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/recursion/list/InversionList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/recursion/list/InversionList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/BSTTopoSize1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/BSTTopoSize1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/BiggestSubBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/BiggestSubBST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/Contains.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/Contains.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GenerateTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GenerateTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetMaxLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetMaxLength.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetNextNode$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetNextNode$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetNextNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetNextNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetPostArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetPostArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetTowErrNodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/GetTowErrNodes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/IsBalance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/IsBalance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/IsCBT.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/IsCBT.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/IsPostArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/IsPostArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/LowestAncestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/LowestAncestor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/LowestAncestorByHashmap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/LowestAncestorByHashmap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/MaxDistence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/MaxDistence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/NodeNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/NodeNum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/PostArrayToBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/PostArrayToBST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/PreInToTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/PreInToTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/PrintByLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/PrintByLevel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/PrintByZigZag.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/binaryTree/PrintByZigZag.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/GetMaxLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/GetMaxLength.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/GetMinChangeLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/GetMinChangeLength.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/MaxLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/MaxLength.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/PrintHalfMajor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/PrintHalfMajor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/PrintHalfMajor1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/PrintHalfMajor1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/Rotate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/Rotate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/SpiralOrderPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/bitOperation/SpiralOrderPrint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/AddList10$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/AddList10$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/AddList10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/AddList10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/JosehusKill6$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/JosehusKill6$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/JosehusKill6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/JosehusKill6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/ListPartitionl8$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/ListPartitionl8$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/ListPartitionl8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/ListPartitionl8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReverseList4$DoubleNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReverseList4$DoubleNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReverseList4$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReverseList4$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReverseList4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReverseList4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReversePart5$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReversePart5$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReversePart5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/ReversePart5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/listIntersect11/BothLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/listIntersect11/BothLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/listIntersect11/GetLoopNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/listIntersect11/GetLoopNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/listIntersect11/NoLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/listIntersect11/NoLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/listIntersect11/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/listIntersect11/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/reverseKNode12/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/reverseKNode12/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/reverseKNode12/ReverseKNode1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/reverseKNode12/ReverseKNode1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/list/reverseKNode12/ReverseKNode2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/list/reverseKNode12/ReverseKNode2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/stack/GetMaxWindow7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/stack/GetMaxWindow7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/stack/Hanuota6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/stack/Hanuota6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/stack/Reverse3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/stack/Reverse3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/stack/SortStackByStack5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/stack/SortStackByStack5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/GetCharAt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/GetCharAt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/GetCountString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/GetCountString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/GetIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/GetIndex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/GetValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/GetValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/IsRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/IsRotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/LowestString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/LowestString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/MinDistene.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/MinDistene.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/MinLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/MinLength.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/Modify.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/Modify.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/NumSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/NumSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/RemoveKZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/RemoveKZeros.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/zuochenyun/string/RototeWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/zuochenyun/string/RototeWord.class" afterDir="false" />
-    </list>
+    <list default="true" id="36bccf60-5f65-42db-b2d7-544d12959e21" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -392,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/enterprise/zj/KReverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+            <state relative-caret-position="675">
+              <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -509,7 +204,7 @@
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="y" value="37" />
     <option name="width" value="1038" />
@@ -551,14 +246,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="jzproj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jzproj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zj" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -574,7 +261,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594894845162" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594895070194" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -778,12 +465,12 @@
       <workItem from="1594170894094" duration="10691000" />
       <workItem from="1594261599030" duration="13909000" />
       <workItem from="1594343285198" duration="54160000" />
-      <workItem from="1594868987994" duration="9645000" />
+      <workItem from="1594868987994" duration="10409000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="310278000" />
+    <option name="totallyTimeSpent" value="311042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1411,8 +1098,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/enterprise/zj/KReverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        <state relative-caret-position="675">
+          <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
         </state>
       </provider>
     </entry>
