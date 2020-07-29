@@ -8,6 +8,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * @version 1.0
  * @date 2020/7/14 11:33
  */
+//交替打印
 public class OneForOne {
 
 

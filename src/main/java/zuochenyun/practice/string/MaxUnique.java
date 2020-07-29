@@ -17,6 +17,8 @@ public class MaxUnique {
 
         char[] chars =s.toCharArray();
         int[] map = new int[256];
+        //int[] map1 = new int[2569999] ;
+        //传入的是字符串数组 整数n（1≤n≤10^5)
         for (int i = 0; i <map.length ; i++) {
             map[i]=-1;
         }

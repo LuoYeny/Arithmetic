@@ -8,6 +8,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * @version 1.0
  * @date 2020/7/13 11:47
  */
+//通知等待
 public class NotifyWait {
     class Service{
         ReentrantLock lock = new ReentrantLock();
@@ -16,6 +17,7 @@ public class NotifyWait {
             try {
                 lock.lock();
                 System.out.println("enter m1");
+                System.out.println(" m1 wait");
                 condition.await();
 
                 System.out.println("end m1");

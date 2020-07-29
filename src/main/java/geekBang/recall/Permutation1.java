@@ -22,12 +22,13 @@ public class Permutation1 {
         boolean[] used=new boolean[chars.length];
         List<String> list = new LinkedList<>();
         solution(chars, 0, chars.length, list,new StringBuffer(),used);
+        System.out.println(list);
 
 
     }
 
     private void solution(char[] chars, int start, int length, List<String> list,StringBuffer tmp,boolean[] used) {
-        if(start==length&&tmp.toString().compareTo("1532")<0){
+        if(start==length){
             list.add(tmp.toString() );
           //  System.out.println(list);
 
@@ -59,7 +60,7 @@ public class Permutation1 {
 
 
     public static void main(String[] args) {
-        new Permutation1().permutation("1532");
+        new Permutation1().permutation("533");
     }
 }
 

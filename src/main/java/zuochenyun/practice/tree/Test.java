@@ -64,9 +64,17 @@ public class Test {
         TreeOperation.show(new GenerateTree().generateTree(array));
         System.out.println(new CBTNodeNum().CBTNodeNum(new GenerateTree().generateTree(array)));
 
+        System.out.println(getNum(new GenerateTree().generateTree(array)));
+        System.out.println(Integer.MAX_VALUE);
 
+    }
 
-
+    public static int getNum(TreeNode root ){
+        if(root==null)
+            return 0;
+        int l=getNum(root.left );
+        int r=getNum(root.right );
+        return l+r+1;
     }
 
 }

@@ -10,6 +10,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * @version 1.0
  * @date 2020/7/14 11:33
  */
+//消费者和生产者
 public class CAndP {
 
 

@@ -10,7 +10,7 @@ import java.util.*;
  * @date 2020/7/2 17:16
  */
 //Palindrom  回文
-//添加最少字符串使整个字符串变成最小字符串
+//添加最少字符串使整个字符串变成整体回文
 public class GetPalindrom {
 
     public String getPalindrom(String str){
@@ -76,11 +76,7 @@ public class GetPalindrom {
 
 
     public static void main(String[] args) {
-      List<Integer> list = new ArrayList<>();
-      list.size();
-        Collections.sort(list);
-        Iterator iterator=list.iterator();
-        list.get(1);
+
         System.out.println(new GetPalindrom().getPalindrom("aaac"));
     }
 }
